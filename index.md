@@ -13,14 +13,15 @@ Captivate is a versatile and powerful tool but it has some idiosyncracies that c
 ### Quizzes
 
 1. Don't try to alter the question or review slides much -- many changes you make will be overridden
-2. To see what you can change, use Quiz Settings
+2. To see what you can change, use [Quiz Settings](https://helpx.adobe.com/captivate/using/quiz-preferences.html)
 3. If you don't like the available options, build your own quiz using advanced actions and variables
 
 ### Troubleshooting
 
-1. If something goes wrong and you don't understand why, it is likely a result of the timeline
-2. Common timing problems = slide is too short, shapes disappear, buttons go inactive
-2. Preview in the browser (Captivate preview often won't turn up bugs)
+1. Preview in the browser (Captivate preview often won't turn up bugs)
+2. If something goes wrong and you don't understand why, it is likely a result of the timeline
+3. Common timing problems = slide is too short, shapes disappear, buttons go inactive
+4. Check the [forums](https://forums.adobe.com/community/adobe_captivate)
 
 ### Publishing
 

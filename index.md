@@ -37,3 +37,10 @@ Captivate is a versatile and powerful tool but it has some idiosyncracies that c
 3. Right click and extract zip file to new folder (use project name) 
 4. Open folder, right click on index.html and view to get URL
 5. Can host multiple projects on a single site 
+
+### Sample Projects
+
+**[Which Plant is Which?](https://captivate-projects.000webhostapp.com/Plants%20Quiz%20102/index.html)**
+**[Fern or Conifer?](https://captivate-projects.000webhostapp.com/Fern%20or%20Conifer/index.html)**
+**[Forest of Fallen Branches](https://captivate-projects.000webhostapp.com/Forest%20of%20Falling%20Branches/index.html)**
+**[Biomimicry](https://captivate-projects.000webhostapp.com/Biomimicry/index.html)**

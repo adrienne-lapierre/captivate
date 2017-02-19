@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Adobe Captivate for Beginners
+
 
 You can use the [editor on GitHub](https://github.com/adrienne-lapierre/captivate/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Top Recommendations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Set up your development environment with visible properties pane and timeline.
+2. Create at least one master slide with pause button.
+3. Hide the timeline if using custom navigation.
+3. Publish to HTML5 not Flash - check HTML5 tracker first.
+4. Avoid the responsive templates but publish with scalable html.
+5. If you're going to modi
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Troubleshooting
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+1. If something goes wrong and you don't understand why, it is likely a result of the timeline.
+2. Common problems = slide is too short (advances before finished), shapes disappear, buttons go inactive
+2. Preview in the browser (Captivate preview often won't turn up bugs)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adrienne-lapierre/captivate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Hosting Your HTML5 Project
+
+1. Publish HTML5 
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

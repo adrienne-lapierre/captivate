@@ -31,7 +31,7 @@ Captivate is a versatile and powerful tool but it has some idiosyncracies that c
 
 ### Hosting
 
-1. Easily host your projects for free at [https://000webhost.com] (https://000webhost.com)
+1. Easily host your projects for free at <https://000webhost.com>
 2. Upload project zip file to public html folder (Upload Files from dashboard)
 3. Right click and extract zip file to new folder (use project name) 
 4. Open folder, right click on index.html and view to get URL

@@ -12,7 +12,7 @@ Captivate is a versatile and powerful tool but it has some idiosyncracies that c
 
 ### Quizzes
 
-1. Don't try to alter the question or review slides much -- many changes you make in design view will be overridden
+1. Don't try to alter the question or review slides much -- many changes you make will be overridden
 2. To see what you can change, use Quiz Settings
 3. If you don't like the available options, build your own quiz/game/interaction using advanced actions and variables
 
